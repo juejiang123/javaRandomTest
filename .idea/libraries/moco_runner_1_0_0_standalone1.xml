@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="moco-runner-1.0.0-standalone1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AutoTest/study/chapter7/moco-runner-1.0.0-standalone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

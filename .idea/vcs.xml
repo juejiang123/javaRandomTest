@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutoTest/study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InterfaceTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gittest/wanandroidinterfacetest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/k2p_web_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testProjects" vcs="Git" />
+  </component>
+</project>

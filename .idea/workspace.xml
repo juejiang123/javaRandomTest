@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd1b0e88-4e74-401d-86ec-83d8d4029f15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/moco_runner_1_0_0_standalone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/moco_runner_1_0_0_standalone1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/2/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/2/jj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/.idea/libraries/moco_runner_1_0_0_standalone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/gen-java/thrift/generated/DataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/gen-java/thrift/generated/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/gen-java/thrift/generated/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/javathriftdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/src/main/java/com/tqx/thriftdemo/PersonServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/src/main/java/thrift/generated/DataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/src/main/java/thrift/generated/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/src/main/java/thrift/generated/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/javathriftdemo/src/thrift/data.thrift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/.idea/libraries/moco_runner_1_0_0_standalone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter10/src/main/main6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter11/src/main/main2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter12/src/main/main7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter13/src/main/main5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter131/src/main/main3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter4/src/main/main4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter6/src/main/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/chapter9/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/study/src/main/main8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo01Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo01Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/InterfaceTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/Chapter5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/src/main/java/com/course/testng/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/src/main/java/com/course/testng/group/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/src/main/java/com/course/testng/suite/Ignore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/target/classes/com/course/testng/BasicAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/target/classes/com/course/testng/SuiteConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/target/classes/com/course/testng/group/Groups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/target/classes/com/course/testng/suite/Ignore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest/Chapter5/target/classes/com/course/testng/suite/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIDemo/UIDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/.idea/libraries/selenium_server_standalone_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/chromeDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/src/libs/selenium-server-standalone-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromeDemo/target/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/com.itheima.practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/out/production/com.itheima.practice/com/itheima/collection/ArrayListCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/out/production/com.itheima.practice/com/itheima/collection/ArrayListIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/out/production/com.itheima.practice/com/itheima/collection/ArrayListIsEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/out/production/com.itheima.practice/com/itheima/collection/ArrayListString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/out/production/com.itheima.practice/com/itheima/collection/ConvertArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/out/production/com.itheima.practice/com/itheima/collection/ListArrayConvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/src/com/itheima/collection/ArrayListCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/src/com/itheima/collection/ArrayListIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/src/com/itheima/collection/ArrayListIsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/src/com/itheima/collection/ArrayListString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/src/com/itheima/collection/ConvertArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.itheima.practice/src/com/itheima/collection/ListArrayConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gittest/wanandroidinterfacetest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gittest/wanandroidinterfacetest/src/main/java/com/mytest/GetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsAndroid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k2p_web_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k2p_web_test/.idea/k2p_web_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k2p_web_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k2p_web_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k2p_web_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_branch/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_branch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_branch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_branch/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_branch/maven_branch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_branch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selectframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/springboot_start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itheima/MySpringBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itheima/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itheima/controller/Quick2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itheima/controller/Quick3Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itheima/controller/Quick4Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_start/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/.idea/testProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/maven_code/target/test-classes/META-INF/maven_code.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/maven_code/target/test-classes/com/itheima/test/MybatisTest111.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProjects/maven_code/target/test-classes/com/itheima/test/MybatisTest222.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/.idea/libraries/moco_runner_1_0_0_standalone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/src/main/java/testng/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/src/main/java/testng/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/src/main/java/testng/group/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/src/main/java/testng/suite/Ignore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/src/main/java/testng/suite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/src/main/resources/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/target/classes/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/target/classes/testng/BasicAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/target/classes/testng/SuiteConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/target/classes/testng/group/Groups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/target/classes/testng/suite/Ignore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter6/target/classes/testng/suite/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/src/main/java/com/tester/extent/ExtentTestNGIReporterListenerOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/src/main/java/com/tester/extent/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/target/classes/com/tester/extent/ExtentTestNGIReporterListenerOld$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/target/classes/com/tester/extent/ExtentTestNGIReporterListenerOld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/target/classes/com/tester/extent/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/target/classes/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter7/test-output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/src/main/java/com/course/RequestAndResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/src/main/java/com/course/RequestGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/src/main/resources/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/target/classes/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/target/classes/com/course/RequestAndResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/Chapter9/target/classes/com/course/RequestGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/chapter81/moco-runner-1.0.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/chapter81/startup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/chapter81/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/chapter81/基本操作说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngcourse/testngcourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化登录/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化登录/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化登录/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化登录/.idea/自动化登录.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化登录/登录.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/study/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/study/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/study/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gittest/wanandroidinterfacetest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gittest/wanandroidinterfacetest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gittest/wanandroidinterfacetest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gittest/wanandroidinterfacetest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testProjects/maven_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testProjects/maven_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testProjects/maven_code/d:axis.log" beforeDir="false" afterPath="$PROJECT_DIR$/testProjects/maven_code/d:axis.log" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="38" />
+    <option name="y" value="87" />
+    <option name="width" value="1440" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1b0e88-4e74-401d-86ec-83d8d4029f15" name="Default Changelist" comment="" />
+      <created>1608561206096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608561206096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="87" width="1440" height="702" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

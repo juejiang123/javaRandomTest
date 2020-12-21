@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="my interfacetestsuite">
+
+    <test name="testmodule">
+        <classes>
+            <class name="com.tester.extent.demo">
+                <methods>
+                    <include name="test1"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <listeners>
+<!--        <listener class-name ="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>-->
+        <listener class-name ="com.tester.extent.ExtentTestNGIReporterListenerOld"></listener>
+    </listeners>
+</suite>

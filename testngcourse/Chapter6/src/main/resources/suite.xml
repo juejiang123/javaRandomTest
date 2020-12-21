@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name="login">
+
+        <classes>
+
+            <class name="testng.SuiteConfig"></class>
+            <class name="testng.suite.LoginTest"></class>
+            <class name="testng.suite.Ignore"></class>
+
+        </classes>
+    </test>
+</suite>

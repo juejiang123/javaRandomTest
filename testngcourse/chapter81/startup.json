@@ -1,0 +1,173 @@
+[
+  {
+    "description": "模拟一个没有参数的get请求",
+    "request": {
+      "uri": "/getdemo",
+      "method": "get"
+    },
+    "response": {
+      "text": "没有参数的get请求"
+    }
+  },
+  {
+    "description": "模拟一个带参数的get请求",
+    "request": {
+      "uri": "/getwithparam",
+      "method": "get",
+      "queries": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "我胡汉三回来了"
+    }
+  },
+  {
+    "description": "再模拟个带参数的get请求",
+    "request": {
+      "uri": "/getwithparam2",
+      "method": "get",
+      "queries": {
+        "name": "huhansan",
+        "age": "18",
+        "sex": "male"
+      }
+    },
+    "response": {
+      "text": "我胡汉三又回来了"
+    }
+  },
+  {
+    "description": "模拟个不带参数的post请求",
+    "request": {
+      "uri": "/demo",
+      "method": "post"
+    },
+    "response": {
+      "text": "post无参响应成功"
+    }
+  },
+  {
+    "description": "模拟个带参数的post请求",
+    "request": {
+      "uri": "/postwithparam",
+      "method": "post",
+      "forms": {
+        "name": "huhansan",
+        "age": "18",
+        "sex": "male"
+      }
+    },
+    "response": {
+      "text": "post带参数来了"
+    }
+  },
+  {
+    "description": "get带cookie的请求",
+    "request": {
+      "uri": "/getwith/cookie",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+    "response": {
+      "text": "这是个get带cookie的信息"
+    }
+  },
+  {
+    "description": "post带cookie的请求",
+    "request": {
+      "uri": "/postwith/cookie",
+      "method": "post",
+      "cookies": {
+        "login": "true"
+      },
+      "json": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "status": 200,
+      "json": {
+        "huhanan": "success"
+      }
+    }
+  },
+  {
+    "description": "post带headers的请求",
+    "request": {
+      "uri": "/postwith/headers",
+      "method": "post",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "cookies": {
+        "login": "true"
+      },
+      "json": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "status": 200,
+      "json": {
+        "status": "1",
+        "hu": "success"
+      }
+    }
+  },
+  {
+    "description": "重定向测试",
+    "request": {
+      "uri": "/redirect"
+    },
+    "redirectTo": "http://www.baidu.com"
+  },
+  {
+    "description": "重定向测试",
+    "request": {
+      "uri": "/redirect2"
+    },
+    "redirectTo": "/redirect2/new"
+  },
+  {
+    "description": "重定向",
+    "request": {
+      "uri": "/redirect2/new"
+    },
+    "response": {
+      "text": "重定向成功了"
+    }
+  },
+  {
+    "description": "这是一个带cookie的响应",
+    "request": {
+      "uri": "/getCookies",
+      "method": "get"
+    },
+    "response": {
+      "text": "恭喜你获取了cookie",
+      "cookies": {
+        "login": "true"
+      }
+    }
+  },
+  {
+    "description": "这是另一个带cookie的响应",
+    "request": {
+      "uri": "/getCookies2",
+      "method": "get"
+    },
+    "response": {
+      "text": "恭喜你获取了cookie",
+      "cookies": {
+        "login": "yes"
+      }
+    }
+  }
+
+]
